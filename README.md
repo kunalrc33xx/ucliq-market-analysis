@@ -1,4 +1,4 @@
-# Ucliq Market Research: Optimizing B2B Food Supply Chains 🥩
+# Ucliq Market Research: Optimizing B2B Food Supply Chains
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Tools](https://img.shields.io/badge/Tools-Python_|_Matplotlib_|_Survey_Analytics-blue)
@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 Key Insights & Visualizations
+## Key Insights & Visualizations
 *Analysis generated using Python (Matplotlib/Seaborn) based on survey data.*
 
 ### 1. Product Quality: The "Preservative" Problem
@@ -31,7 +31,7 @@ Logistics reliability was identified as the biggest operational weakness. Only *
 
 ---
 
-## 🚀 Strategic Recommendations
+## Strategic Recommendations
 
 Based on the data, the following strategic pivots were proposed to leadership:
 
@@ -49,7 +49,7 @@ Based on the data, the following strategic pivots were proposed to leadership:
 
 ---
 
-## 🛠 Tools & Methodology
+## Tools & Methodology
 * **Data Collection:** Structured Questionnaire (Convenience Sampling).
 * **Analysis:** Descriptive Statistics & Python (Pandas/Seaborn).
 * **Domain:** B2B E-commerce & Supply Chain Management.
