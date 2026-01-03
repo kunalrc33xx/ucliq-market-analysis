@@ -23,13 +23,11 @@
 While 61% of users were satisfied, the primary driver for churn was product quality. Specifically, **18% of complaints** were linked to the use of *Potassium Nitrite*, a finding that directly influenced procurement standards.
 
 ![Dissatisfaction Chart](chart_dissatisfaction.png)
-*(Run the python script to generate this image)*
 
 ### 2. Operational Gap: Delivery Inconsistency
 Logistics reliability was identified as the biggest operational weakness. Only **35%** of B2B clients received products quickly *consistently*, while **60%** reported "Sometimes" receiving them on time.
 
 ![Delivery Chart](chart_delivery.png)
-*(Run the python script to generate this image)*
 
 ---
 
